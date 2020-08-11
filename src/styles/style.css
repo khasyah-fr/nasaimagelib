@@ -1,0 +1,28 @@
+
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+main {
+    margin: 24px 20%;
+    width: 80%;
+    margin: 0 auto;
+}
+
+apod-card{
+    margin-bottom: 8px;
+}
+
+image-list {
+    display: block;
+    margin-top: 32px;
+    width: 100%;
+    padding: 16px;
+ }
